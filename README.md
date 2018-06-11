@@ -14,7 +14,7 @@ $ timer 20s
 
 Set a timer for 5 minutes
 ```
-timer 5m
+$ timer 5m
 ```
 
 
