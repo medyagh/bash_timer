@@ -3,9 +3,9 @@ The goal is to be able to set a timer in terminal quickly, and get a "In Your Fa
 
 
 ## Installation
-Paste [this function](https://github.com/medyagh/bash_timer/blob/master/bash_timer.sh) to your `~/.bashrc` or whatever yours 
+Paste [this function](https://github.com/medyagh/bash_timer/blob/master/bash_timer.sh) into the end of your `~/.bashrc` or `~/.bash_profile` 
 
-## Usage
+## Example Usage
 
 Set a timer for 20 seconds:
 ```
