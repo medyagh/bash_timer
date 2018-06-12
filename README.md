@@ -1,5 +1,5 @@
 # Bash_timer
-The goal is to be able to set a timer in terminal quickly, and get a "In Your Face" notification that the time is up.
+Set a timer in terminal quickly, and get a _In Your Face Pop up_ notification that "Your time is up".
 
 
 ## Installation
