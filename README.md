@@ -26,5 +26,5 @@ Tested only on Debian and MacOs High Sierra
 Apache V2
 TL;DR: You can not sue me ever !
 
-
+### TODO: Add Troll Pics to the pop up to make as unpleasant as possible !
 
