@@ -19,7 +19,7 @@ $ timer 5m
 
 
 ## Disclaimer
-Tested only on Debian. 
+Tested only on Debian and MacOs High Sierra
 
 
 
