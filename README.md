@@ -1,8 +1,8 @@
 # Bash_timer
 Set a timer in terminal quickly, and be yelled at automaticly when your time is up. with a very un-pleasant popup.
 
-The idea for the popup is intentionally meant to be un-pleasant, to get things done before unpleasent pop up.
-
+# History 
+Wanna spend 10 minutes doing your youtube-research and then go back to work? but you wanna be yelled at?
 
 ## Installation
 Paste [this function](https://github.com/medyagh/bash_timer/blob/master/bash_timer.sh) into the end of your `~/.bashrc` or `~/.bash_profile` 
