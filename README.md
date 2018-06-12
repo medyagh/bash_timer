@@ -2,7 +2,7 @@
 Set a timer in terminal quickly, and be yelled at automaticly when your time is up. with a very un-pleasant popup.
 
 # History 
-Wanna spend 10 minutes doing your youtube-research and then go back to work? but you wanna be yelled at?
+You want to take a 10 min break from coding to do your youtube-wikipedia-research thing, but you don't wanna loose track of time. You want something unpleasant to yell at you. 
 
 ## Installation
 Paste [this function](https://github.com/medyagh/bash_timer/blob/master/bash_timer.sh) into the end of your `~/.bashrc` or `~/.bash_profile` 
