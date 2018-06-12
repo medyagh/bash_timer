@@ -1,5 +1,6 @@
 # Bash_timer
 Set a timer in terminal quickly, and get a _In Your Face Pop up_ notification that "Your time is up".
+The idea for the popup is intentionally meant to be un-pleasant, to get things done before unpleasent pop up.
 
 
 ## Installation
