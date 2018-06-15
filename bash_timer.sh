@@ -3,7 +3,6 @@ timer() {
 	arg1=$@
 	number_part=${arg1//[!0-9]/}
 	letter_part=${arg1//[^a-zA-Z]/}
-	echo $letter_part
 
 	#TODO: add min, hour lower and uppercase
 
