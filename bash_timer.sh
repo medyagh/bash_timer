@@ -1,3 +1,4 @@
+
 timer() {
 	coremsg="Your "$@"  is up."
 	notifymsg="
@@ -17,13 +18,19 @@ timer() {
        -------------------
        -------------------
        "
-	sleep "$@"
 
+	for i in $(seq $@ $END); do 
+	echo "$i/$@" > /tmp/timer.log
+	sleep 1
+	done
+
+	
 	# Linux
 	path_to_notify_send=$(which notify-send)
 	if [ -x "$path_to_notify_send" ]; then
 		notify-send "Medya Timer" "$notifymsg" -u normal
 	fi
+
 	path_to_xmessage=$(which xmessage)
 	if [ -x "$path_to_xmessage" ]; then
 		xmessage "$notifymsg" -nearmouse
