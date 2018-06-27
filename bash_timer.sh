@@ -37,7 +37,7 @@ timer() {
        "
 
 	for i in $(seq $SECONDS_TO_COUNT_DOWN $END); do
-		echo "$i/$@" >/tmp/timer.log
+		echo "$i/$SECONDS_TO_COUNT_DOWN" >/tmp/timer.log
 		sleep 1
 	done
 
