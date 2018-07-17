@@ -69,3 +69,11 @@ timer() {
 		osascript -e 'tell app "System Events" to display dialog "Your time is up !"'
 	fi
 }
+
+export -f timer
+
+
+timer_ugly() {
+	timer $@ & disown
+}
+
