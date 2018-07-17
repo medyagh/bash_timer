@@ -11,16 +11,17 @@ Paste [this function](https://github.com/medyagh/bash_timer/blob/master/bash_tim
 
 Set a timer for 20 seconds:
 ```
-$ timer 20s
+$ timer_ugly 20s
 ```
 
 Set a timer for 5 minutes
 ```
-$ timer 5m
+$ timer_ugly 5m
 ```
 
 ## Tested on
 Tested only on Debian and MacOs High Sierra
+
 
 ## Legal
 Apache V2
